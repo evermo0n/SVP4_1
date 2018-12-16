@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello World2!");
         System.out.println("ChangesonIntellijIDEA");
-        System.out.println("ChangesonIntellijIdea_1");
+        System.out.println("ChangesonGitHub_1");
     }
 }
